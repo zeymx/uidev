@@ -15,6 +15,6 @@
 
 ![result matrix](https://github.com/zeymx/uidev/assets/29517196/dcc92af7-63dc-441d-9853-462c7b69da14)
 
-Результат работы функции numpy.matmul:
+Результат работы функции *numpy.matmul*:
 
 ![result numpy](https://github.com/zeymx/uidev/assets/29517196/0d208806-428d-4ba2-b448-b6b8a8872a49)
